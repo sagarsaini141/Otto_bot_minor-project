@@ -6,6 +6,9 @@ take help
 3. Project Synopsis: https://drive.google.com/file/d/1nV10ZcQil7ASLYwZV4hrJ0DAFBYEMolp/view?usp=sharing
 4. Watch our working model : https://youtu.be/eBNuwQCsY5E
           
+**IF YOU FINE ANY ISSUE IN RUNNING ARDUINO IDE INSTALL THE DIRVE :CH34X_install_Windows_V3.4.zip**
+
+______________________________________________________________________________________________________________________________________
 
 **Gather all the off the shelf parts that you'll need for this assembly. Here's the list:**
 
@@ -38,3 +41,5 @@ And then you only need to 3D print 6 parts in total:
 13. 3D printed leg x2.
 
 14. 3D printed foot x2.
+
+
