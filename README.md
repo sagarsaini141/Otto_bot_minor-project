@@ -3,8 +3,7 @@
 take help
 1. [link 1] : https://hackaday.io/project/11776/instructions
 2. [link 2] : https://www.instructables.com/Otto-Build-You-Own-Robot-in-Two-Hours/
-3. Project Synopsis: https://drive.google.com/file/d/1nV10ZcQil7ASLYwZV4hrJ0DAFBYEMolp/view?usp=sharing
-4. Watch our working model : https://youtu.be/eBNuwQCsY5E
+3. Watch our working model : https://youtu.be/eBNuwQCsY5E
           
 **IF YOU FINE ANY ISSUE IN RUNNING ARDUINO IDE INSTALL THE DIRVE :CH34X_install_Windows_V3.4.zip**
 
