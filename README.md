@@ -3,6 +3,7 @@
 take help
 1. [link 1] : https://hackaday.io/project/11776/instructions
 2. [link 2] : https://www.instructables.com/Otto-Build-You-Own-Robot-in-Two-Hours/
+3. Project Synopsis: https://drive.google.com/file/d/1nV10ZcQil7ASLYwZV4hrJ0DAFBYEMolp/view?usp=sharing
           
 
 **Gather all the off the shelf parts that you'll need for this assembly. Here's the list:**
